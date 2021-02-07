@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Etc
+models/
+.vscode/
+.vs/
+credentials.yml
