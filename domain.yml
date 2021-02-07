@@ -2,7 +2,7 @@ version: "2.0"
 
 intents:
   - salam
-  - goodbye
+  - sampai_jumpa
   - affirm
   - deny
   - mood_great

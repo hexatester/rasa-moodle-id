@@ -20,19 +20,16 @@ nlu:
     - selamatsore
     - selamatmalam
 
-- intent: goodbye
+- intent: sampai_jumpa
   examples: |
-    - good afternoon
-    - cu
-    - good by
-    - cee you later
-    - good night
-    - bye
-    - goodbye
-    - have a nice day
-    - see you around
-    - bye bye
-    - see you later
+    - selamat siang
+    - sampi jumpa
+    - nanti lagi
+    - sampai jumpa lagi
+    - selamat malam
+    - selamat tinggal
+    - semoga harimu menyenangkan
+    - sampai jumpa kembali
 
 - intent: affirm
   examples: |
