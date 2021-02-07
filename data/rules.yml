@@ -2,12 +2,12 @@ version: "2.0"
 
 rules:
 
-- rule: Say goodbye anytime the user says goodbye
+- rule: Ucapkan selamat tinggal setiap kali pengguna mengucapkan selamat tinggal
   steps:
-  - intent: goodbye
+  - intent: sampai_jumpa
   - action: utter_goodbye
 
-- rule: Say 'I am a bot' anytime the user challenges
+- rule: Ucapkan 'Saya bot' setiap kali pengguna bertanya apa bot
   steps:
   - intent: bot_challenge
   - action: utter_iamabot

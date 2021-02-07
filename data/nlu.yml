@@ -58,7 +58,9 @@ nlu:
 
 - intent: bot_challenge
   examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
+    - apakah kamu robot?
+    - apakah kamu bot?
+    - apakah kamu manusia?
+    - apakah saya sedang berbicara dengan robot?
+    - apakah saya sedang berbicara dengan bot?
+    - apakah saya berbicara dengan manusia?

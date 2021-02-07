@@ -22,10 +22,10 @@ responses:
   - text: "Great, carry on!"
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "Sampai jumpa"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "Saya bot, dibuat dengan Rasa."
 
 session_config:
   session_expiration_time: 60
