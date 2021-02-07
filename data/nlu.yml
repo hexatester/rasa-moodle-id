@@ -45,15 +45,16 @@ nlu:
     - boleh
     - oke
 
-- intent: deny
+- intent: menyangkal
   examples: |
-    - no
-    - n
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
+    - tidak
+    - nggak
+    - ngga
+    - tidak pernah
+    - Saya rasa tidak
+    - tidak suka itu
+    - tidak mungkin
+    - tidak juga
 
 - intent: mood_great
   examples: |
