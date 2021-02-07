@@ -31,14 +31,19 @@ nlu:
     - semoga harimu menyenangkan
     - sampai jumpa kembali
 
-- intent: affirm
+- intent: mengiakan
   examples: |
-    - yes
+    - iyak
+    - iya
+    - ya
     - y
-    - indeed
-    - of course
-    - that sounds good
-    - correct
+    - memang
+    - benar
+    - betul
+    - tentu saja
+    - boleh juga
+    - boleh
+    - oke
 
 - intent: deny
   examples: |

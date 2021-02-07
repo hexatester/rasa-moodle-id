@@ -3,7 +3,7 @@ version: "2.0"
 intents:
   - salam
   - sampai_jumpa
-  - affirm
+  - mengiakan
   - deny
   - mood_great
   - mood_unhappy
