@@ -1,21 +1,24 @@
 version: "2.0"
 
 nlu:
-- intent: greet
+- intent: salam
   examples: |
-    - hey
-    - hello
+    - hai
+    - halo
     - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
+    - selamat pagi
+    - selamat siang
+    - selamat sore
+    - selamat malam
+    - ayo
+    - pagi
+    - siang
+    - sore
+    - malam
+    - selamatpagi
+    - selamatsiang
+    - selamatsore
+    - selamatmalam
 
 - intent: goodbye
   examples: |
